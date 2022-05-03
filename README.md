@@ -6,6 +6,9 @@ This Demo Store contains software bugs which were put intentionally.
 THE store have a few items for sale in different department : WOMWN , MEN AND ACCESORIES.
 In this website you can purches (jeans, tshirts, bags, bracelets), contact with the store, read about the store,
 add payment and shipping address.
+
+39 Automatic tests
+Link to website: https://atid.store/
   
 
 AUTOMATION TEAM:
